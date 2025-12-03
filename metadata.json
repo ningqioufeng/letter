@@ -1,0 +1,5 @@
+{
+  "name": "Letters",
+  "description": "A digital scrapbooking app allowing users to compose handwritten letters, arrange photos, and customize their board with an aesthetic, nostalgic UI. Features AI-assisted writing.",
+  "requestFramePermissions": []
+}
